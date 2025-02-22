@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "419251176337",
+    "firebase_url": "https://myproject-9638b-default-rtdb.firebaseio.com",
+    "project_id": "myproject-9638b",
+    "storage_bucket": "myproject-9638b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419251176337:android:7a2adf992a29a940651030",
+        "android_client_info": {
+          "package_name": "com.example.qiu_internar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419251176337-8445cfb5uuikqp4753q98n519sqip5k5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_RGDi03tdqFFzba934JoEK6Uqodr2llk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419251176337-8445cfb5uuikqp4753q98n519sqip5k5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "419251176337-7fjkumgegb1d6p0upv0sau8t8ucbuar2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.projectQiuInternar"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

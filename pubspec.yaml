@@ -1,0 +1,90 @@
+name: qiu_internar
+description: "A new Flutter project."
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.5.4 <4.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  flutter_native_splash: ^2.4.3
+  firebase_auth: ^5.3.4
+  sign_in_button: ^3.2.0
+  firebase_core: ^3.11.0
+  google_sign_in: ^6.2.2
+  cloud_firestore: ^5.5.1
+  image_picker: ^1.1.2
+  firebase_storage: ^12.3.7
+  file_picker: 8.1.4
+  path: ^1.9.0
+  open_file: ^3.5.10
+  permission_handler: ^11.3.1
+  http: ^1.2.2
+  path_provider: ^2.1.5
+  dio: ^5.7.0
+  google_maps_flutter: ^2.10.0
+  geocoding: ^3.0.0
+  shared_preferences: ^2.3.5
+  intl: ^0.19.0
+  url_launcher: ^6.3.1
+  fluttertoast: ^8.2.10
+  googleapis_auth: ^1.6.0
+  firebase_messaging: ^15.2.2
+  app_settings: ^5.1.1
+  get: ^4.6.6
+  firebase_analytics: ^11.4.1
+  flutter_local_notifications: ^18.0.1
+  workmanager: ^0.5.2
+  timezone: ^0.10.0
+  dropdown_search: ^6.0.2
+  cached_network_image: ^3.4.1
+
+
+
+
+
+
+flutter_native_splash:
+  android: true
+  color: "#f5fbfc"
+  color_dark: "#000000"
+  image: "assets/logo_.png"
+  branding: "assets/QIU_InternAR.png"
+  image_dark: "assets/logo_dark_.png"
+  branding_dark: "assets/QIU_InternAR_dark.png"
+
+  android_12:
+    color: "#f5fbfc"
+    color_dark: "#000000"
+    image: "assets/logo_.png"
+    branding: "assets/QIU_InternAR.png"
+    image_dark: "assets/logo_dark_.png"
+    branding_dark: "assets/QIU_InternAR_dark.png"
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/logo.png
+    - assets/logo_.png
+    - assets/login_pic.png
+    - assets/logo1.png
+    - assets/logo_dark.png
+    - assets/logo_dark_.png
+    - assets/QIU_InternAR.png
+    - assets/QIU_InternAR_dark.png
+    - assets/google_logo.png
+    - assets/
+
